@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="green">#7FFF00</color>
+
+    <color name="uno">#23ff09</color>
+
+    <color name="dos">#ffff0c</color>
+
+    <color name="tres">#fc8649</color>
+
+    <color name="cuatro">#fb0007</color>
+
+</resources>

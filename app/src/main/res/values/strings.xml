@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Saema Cenaim</string>
+    <string name="google_maps_key">AIzaSyC73gnJB8R8BVLN6pjk57pxf2xoC-91vB0</string>
+
+
+    <string name="prompt_anio">Year</string>
+    <string name="prompt_mes">Month</string>
+    <!-- Strings related to login -->
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_names">Nombres</string>
+    <string name="prompt_company">Empresa</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_message">Mensaje</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_change">Change Password</string>
+    <string name="action_send">Enviar</string>
+    <string name="error_invalid_email">This Username is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_invalid_passwords">The new passwords are not equals</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_network">There was a problem with the system, please retry.</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Internet permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="change_password">Change Password</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- data section -->
+    <string name="section_description">Tome una foto de la alerta a subir</string>
+    <string name="action_search">Foto</string>
+    <string name="section_name">Descripcion de la alerta</string>
+    <string name="action_upload">Enviar</string>
+
+    <!-- alerta section -->
+    <string name="section_camaronera">Camaronera</string>
+    <string name="section_piscina">Piscina</string>
+    <string name="section_anio">Año</string>
+    <string name="section_mes">Mes</string>
+    <string name="section_ipm">IPM: </string>
+    <string name="section_rendimiento">Rendimiento: </string>
+    <string name="section_supervivencia">Supervivencia: </string>
+    <string name="section_peso_promedio">Peso promedio: </string>
+    <string name="section_camaroneras">Camaronera: </string>
+
+    <!-- info section -->
+    <string name="section_antecedente">Antecedentes</string>
+
+    <string name="section_antecedente_texto">Los decrecimientos de producción en granjas camaroneras pueden ocurrir debido a problemas ambientales, de manejo, o por enfermedades. En Ecuador, el principal problema limitante para la producción ha sido la presencia de enfermedades. Eventos epidémicos tales como los síndromes de La Gaviota y Taura y, la enfermedad de la mancha blanca en especial, han ocasionado impactos económicos considerables, afectando seriamente a la industria acuícola. En tales casos, la detección inicial de baja producción en grupos de granjas compartiendo una zona determinada hubiera servido como un sistema de alerta temprana de enfermedades y ayudado a la toma de decisiones por parte de los productores. Bajo este contexto y debido a la capacidad integradora de los sistemas de información geográfica (SIG) se desarrolló un sistema de cartografía automatizado, específico para la acuicultura del camarón en Ecuador, que informe y alerte a los productores camaroneros sobre cambios en los niveles de producción de las granjas camaroneras.</string>
+    <string name="section_saema">¿Qué es el SAEMA?</string>
+    <string name="section_saema_texto">El SAEMA es un sistema de vigilancia pasiva, que detecta cambios en los niveles de producción de las granjas camaroneras del Ecuador. Está basado en la variación en espacio y tiempo de anomalías de un índice de producción y manejo (IPM) con respecto a valores históricos. En el futuro inmediato se pretende que el SAEMA sirva para detectar las fases iniciales de un evento epidémico en las granjas camaroneras donde opera el sistema.</string>
+    <string name="section_zona">¿Qué zona cubre el SAEMA?</string>
+    <string name="section_zona_texto">El SAEMA ha sido diseñado para las camaroneras del estuario interior del Golfo de Guayaquil (Ecuador), donde se cultiva camarón blanco del Pacífico ( Penaeus vannamei ), cubriendo dos de las cuatro provincias costeras del país (Guayas y El Oro).</string>
+    <string name="section_participar">¿Cómo participar?</string>
+    <string name="section_participar_texto">Si usted está interesado en participar escribir al correo : Bonny Bayot, Centro Nacional de Acuicultura e Investigaciones Marinas (CENAIM) Escuela Superior Politécnica del Litoral (ESPOL) bbayot@espol.edu.ec</string>
+
+
+</resources>
